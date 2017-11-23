@@ -1,0 +1,26 @@
+{
+  "name": "webscraping-node",
+  "version": "1.0.0",
+  "description": "Web Scraping using Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ms10398/Web-Scraping-Node.js-.git"
+  },
+  "author": "ms10398",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ms10398/Web-Scraping-Node.js-/issues"
+  },
+  "homepage": "https://github.com/ms10398/Web-Scraping-Node.js-#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.2",
+    "handlebars": "^4.0.11",
+    "path": "^0.12.7",
+    "request": "^2.83.0"
+  }
+}
